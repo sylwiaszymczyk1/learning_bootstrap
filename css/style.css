@@ -1,0 +1,7 @@
+div.width-limit{
+    max-width: 960px;
+    margin: auto;
+}
+.jumbotron{
+    text-align: center;
+}
